@@ -13,3 +13,4 @@ tqdm
 pyPDF2 
 langchain==0.3.27
 langchain-community==0.3.27
+FlagEmbedding==1.2.11
