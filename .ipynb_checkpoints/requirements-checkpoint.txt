@@ -1,4 +1,4 @@
-transformers==4.38.2
+transformers==4.40.0
 datasets==2.18.0
 accelerate==0.29.3
 evaluate==0.4.1
@@ -15,4 +15,8 @@ langchain==0.3.27
 langchain-community==0.3.27
 langchain-chroma==0.2.5
 chromadb>=1.0.9
-sentence-transformers==2.6.1
+sentence-transformers
+numpy==1.26.4
+tokenizers
+sentencepiece==0.1.99
+safetensors>=0.4.2
